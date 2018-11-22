@@ -1,5 +1,5 @@
 name: Vipps Invoice API
-description: Enable this module if tyou want to use Vipps Regninger (Vipps Invoice). <em>Please note that Vipps Regninger supersedes the older Vipps Faktura, both as a product and API.</em>
+description: Enable Vipps Regninger (Vipps Invoice) if you want to use the functionality. <em>Please note that Vipps Regninger supersedes the older Vipps Faktura, both as a product and API.</em>
 core: 8.x
 type: module
 package: Vipps
