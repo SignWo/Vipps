@@ -1,0 +1,7 @@
+name: Vipps eCommerce API
+description: Enable Vipps eCommerce API if you want to use the functionality for online payments.
+core: 8.x
+type: module
+package: Vipps
+dependencies:
+  - vipps:vipps_api
