@@ -1,0 +1,9 @@
+name: Commerce Vipps - Vipps Regninger
+description: Provides Commerce integration for Vipps Regninger
+core: 8.x
+type: module
+package: Commerce (contrib)
+dependencies:
+  - vipps:vipps_api
+  - vipps:vipps_invoice_api
+  - commerce:commerce_payment

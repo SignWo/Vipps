@@ -1,0 +1,9 @@
+name: Commerce Vipps - Vipps på nett
+description: Provides Commerce integration for Vipps på nett
+core: 8.x
+type: module
+package: Commerce (contrib)
+dependencies:
+  - vipps:vipps_api
+  - vipps:vipps_ecom_api
+  - commerce:commerce_payment
