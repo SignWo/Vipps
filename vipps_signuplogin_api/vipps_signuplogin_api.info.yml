@@ -1,0 +1,7 @@
+name: Vipps Signup & Login API
+description: Enable Vipps Signup & Login API if you want to use one or both features.
+core: 8.x
+type: module
+package: Vipps
+dependencies:
+  - vipps:vipps_api
