@@ -1,0 +1,8 @@
+name: Commerce Vipps
+description: Provides Commerce integration for Vipps
+core: 8.x
+type: module
+package: Commerce (contrib)
+dependencies:
+  - vipps:vipps_api
+  - commerce:commerce_payment
